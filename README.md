@@ -24,7 +24,7 @@ Solution: The solution to the firing problem is to follow the Da Vinci Tank proj
 
 Design sketches / images
 
-![First plan](First image.jpg)
+![First plan](Firstplan.png)
 
 This picture shows our original plan of the robot and the explanation of how it works. The first picture depicts what the housing for the arduino and our original idea of how to fire the rubber band. The second drawing shows our revision to the firing of the rubber band. 
 
