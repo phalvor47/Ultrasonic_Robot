@@ -22,7 +22,6 @@ Our constraints are the size of the robot. It also must have two modes but not u
 Solution: The solution to the firing problem is to follow the Da Vinci Tank project. In this project, the makers directly attach the rubber band to the servo. This allows us to cut out other problems dealing with apparatuses firing the rubber band. We chose this solution because it is a simple, easy way to fire the rubber band.
 
 
-
 Design sketches / images
 
 ![First plan](media/First image.jpg)
@@ -41,18 +40,22 @@ In gun mode:
 When the trigger is pulled the rubber band fires
  
 Materials we will need:
-An ultrasonic sensor (HC Sro4)
-A continuous micro servo (FS90R)
-The Adafruit Metro
-Acrylic box sides
-4-40 screws and nuts
-Multiple rubber bands
-Two panel mount SPDT switches
-A red LED
-Panel mount pushbutton switch
-2 10kΩ resistor  
-9 AAA batteries
-Prototyping shield
+* An ultrasonic sensor (HC Sro4)
+* A continuous micro servo (FS90R)                                                                                                                                                                              
+* The Adafruit Metro
+* Laser cut Acrylic
+* 4-40 screws and nuts
+* Multiple rubber bands
+* Two panel mount SPDT switches
+* A red LED
+* Panel mount pushbutton switch
+* 2 10kΩ resistor  
+* 9 AAA batteries
+* Prototyping shield
+* 3D printing plastic 
+* Battery holder
+* 5 - 30 wires
+
  
 Schedule(weekly updates)
 
