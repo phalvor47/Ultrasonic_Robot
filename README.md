@@ -19,7 +19,7 @@ Criteria and Constraints:
 Our criteria for our project is it must be easily relodable and able to be in pistol mode or trap mode. It must fire the rubber band by itself.
 
 Our constraints are the size of the robot. It also must have two modes but not use too much material. It requires basically two different codes. It also needs to reliably read distances so that it can not false fire.
-Solution: The solution to the firing problem is to follow the Da Vinci Tank project. In this project, the makers directly attach the rubber band to the servo. This allows us to cut out other problems dealing with apparatuses firing the rubber band. We chose this solution because it is a simple, easy way to fire the rubber band.
+Solution: The solution to the firing problem is to follow the [Da Vinci Tank project](https://www.instructables.com/id/Shooting-Cardboard-Da-Vinci-Tank/). In this project, the makers directly attach the rubber band to the servo. This allows us to cut out other problems dealing with apparatuses firing the rubber band. We chose this solution because it is a simple, easy way to fire the rubber band.
 
 
 Design sketches / images
