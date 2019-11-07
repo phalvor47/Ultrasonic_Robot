@@ -56,8 +56,10 @@ Prototyping shield
  
 Schedule(weekly updates)
 
+| Week | What we will finish| What we can present |
+|-----:|:------------------:|--------------------:|
 | Week 1 | We will finish our final plan for the Ultrasonic Robot. Loren will start coding and wiring the Arduino. Heming will start the solidwork of the box | What we can present: The code and the plan. Loren will do the code while Heming finishes the plan |
 | Week 2 | Loren will finish the coding while Heming will finish the box. We will then move onto make the servo holder as well as other various parts | What we can present: The coding and the barrel |
 | Week 3 | Loren will finish up all the wiring and touch up the coding while Heming will start printing out the box. | What we can present: The fritzing, handle, and the servo mount |
-| Week 4 | | |
-| Week 5 | | |
+| Week 4 | We will finish printing out the box and start putting it together. | What we can present: Final solidworks and mount |
+| Week 5 | We will finish putting the box together | We will finish putting the box together |
