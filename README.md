@@ -21,7 +21,6 @@ Our criteria for our project is it must be easily relodable and able to be in pi
 Our constraints are the size of the robot. It also must have two modes but not use too much material. It requires basically two different codes. It also needs to reliably read distances so that it can not false fire.
 Solution: The solution to the firing problem is to follow the [Da Vinci Tank project](https://www.instructables.com/id/Shooting-Cardboard-Da-Vinci-Tank/). In this project, the makers directly attach the rubber band to the servo. This allows us to cut out other problems dealing with apparatuses firing the rubber band. We chose this solution because it is a simple, easy way to fire the rubber band.
 
-
 Design sketches / images
 
 ![First plan](Firstplan.png)
@@ -29,7 +28,9 @@ Design sketches / images
 This picture shows our original plan of the robot and the explanation of how it works. The first picture depicts what the housing for the arduino and our original idea of how to fire the rubber band. The second drawing shows our revision to the firing of the rubber band. 
 
 This is the plan for the hand-held mode. This is the second function for the project. One revision of this plan is that it will have a button or trigger that will fire the rubber band.
- 
+
+![Mechanism](Mechanism.gif)
+
 Code:
 If the switch is flipped it changes from booby trap to gun or gun to booby trap
 In booby trap mode:
