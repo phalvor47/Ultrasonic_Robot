@@ -1,10 +1,10 @@
 #Arduino
 
 This is Loren and Heming's wiki page for our Ultrasonic Robot project.
-Our goal of our project is to create a booby trap. It will detect the object/person and turn on an LED. If the object/person countiues to come closer, it will fire an object.
+Our goal of our project is to create a booby trap. It will detect an object or person and turn on an LED. If the object/person countiues to come closer, it will fire a rubber band.
 
 A problem we may have is the ability for a servo to fire an object.
-The solution to this problem is having a stationary object in the front and a removable object in the back. A rubber band will then be wrapped around them. Once the servo activates, it will hit the removable object which realises the tension of the rubber band.
+The solution to this problem is by using the firing mechanism from the Da Vinci Tank project. It uses a hook and a servo to fire the rubber band. This allows us to easily fire the rubber band.
 
 Ultrasonic Booby Trap
 Description of our project: Our Ultrasonic Robot project will be a booby trap. The ultrasonic sensor will sense an object and will fire a rubber band. The rubber band is connected to a servo and a hook or another object. When the ultrasonic sensor detects an object in motion, the servo will release the tension of the rubber band and fire it
