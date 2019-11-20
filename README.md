@@ -28,7 +28,13 @@ Design sketches / images
 
 This picture shows our original plan of the robot and the explanation of how it works. The first picture depicts what the housing for the arduino and our original idea of how to fire the rubber band. The second drawing shows our revision to the firing of the rubber band. 
 
-This is the plan for the hand-held mode. This is the second function for the project. One revision of this plan is that it will have a button or trigger that will fire the rubber band.
+![Hand held mode](Media/Handheld.PNG)
+
+This is the plan for the hand-held mode. It will be the second function for the project. One revision of this plan is that it will have a button or trigger that will fire the rubber band.
+
+![Real life hand held mode](Media/IRLHand.PNG)
+
+This is what we are basing our hand-held mode off of. It is past project from one of the students. We have a few revisions though. We will slim the handle down and a trigger. We will also put the arduino and servo inside the barrel.
 
 ![Mechanism](Media/Mechanism.gif)
 
